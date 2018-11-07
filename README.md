@@ -24,3 +24,5 @@ usage: iostress [options]
     -r	use random bytes.
     -v	output version information and exit.
 ```
+
+You can see more detail in docs folder.
